@@ -1,5 +1,5 @@
-# Audio-Classification-using-CNN
-## Multi class audio classification using Deep Learning (CNN, MLP)
+# Audio-Classification
+## Multi class audio classification using Deep Learning
 
 ### Project Objectives: 
 The objective of this project is to build a multi class classifier to identify sound
